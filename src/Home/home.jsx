@@ -105,7 +105,7 @@ const OfferSection = () => {
               <div className="flex flex-col gap-2 p-4">
                 <h2 className="text-lg md:text-xl text-gray-900 mb-3 md:mb-5">Last Minute Offer - 10% Off</h2>
                 <p className="text-sm md:text-base">Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio, nemo.</p>
-                <button className="flex gap-6 font-light text-gray-900 items-center w-[120px] md:w-[150px] text-base md:text-lg mt-3 cursor-pointer">
+                <button className="flex gap-3 md:6 font-light text-gray-900 items-center w-[120px] md:w-[150px] text-sm md:text-lg mt-3 cursor-pointer">
                   Book Now <ArrowRight size={20} md:size={25} />
                 </button>
               </div>
